@@ -6,10 +6,10 @@ Este repositório contém a documentação legal essencial para o bot de Discord
 
 ## Documentos Legais
 
-* **Termos de Serviço:** [Link para os seus Termos de Serviço hospedados no GitHub Pages](https://SEU_USERNAME_GITHUB.github.io/samy-bot-docs/TERMOS_DE_SERVICO.html)
+* **Termos de Serviço:** [Link para os seus Termos de Serviço hospedados no GitHub Pages](https://github.com/carlosvcl/samy-bot-docs/blob/main/TERMOS_DE_SERVICO.md)
     > Estes termos regem o uso do bot Samy. Ao adicionar e interagir com o bot, você concorda com estes termos.
 
-* **Política de Privacidade:** [Link para a sua Política de Privacidade hospedada no GitHub Pages](https://SEU_USERNAME_GITHUB.github.io/samy-bot-docs/POLITICA_DE_PRIVACIDADE.html)
+* **Política de Privacidade:** [Link para a sua Política de Privacidade hospedada no GitHub Pages](https://github.com/carlosvcl/samy-bot-docs/blob/main/POLITICA_DE_PRIVACIDADE.md)
     > Esta política explica como o bot Samy coleta, usa e protege suas informações. Sua privacidade é importante para nós.
 
 ## Sobre o Bot Samy
