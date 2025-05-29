@@ -7,51 +7,57 @@
 # Documentação do Bot Samy
 
 <p align="center">
-  <img src="samy-banner.jpg" alt="Banner do Bot Samy" width="800"/>
+  <img src="samy-banner.jpg" alt="Banner do Bot Samy" width="750"/> 
   </p>
 
 ---
 
-Este repositório contém a documentação legal essencial para o bot de Discord **Samy**, incluindo nossos **Termos de Serviço** e **Política de Privacidade**.
+Bem-vindo(a) à documentação oficial do **Samy Bot**! Este repositório contém os documentos legais essenciais para a utilização do nosso bot, incluindo nossos Termos de Serviço e nossa Política de Privacidade.
 
-## 📜 Documentos Legais
+## 📜 Documentos Legais Essenciais
 
-* **Termos de Serviço:** [Leia nossos Termos de Serviço completos](https://[SEU_USERNAME_GITHUB].github.io/samy-bot-docs/TERMOS_DE_SERVICO.html)
-    * *Estes termos regem o uso do bot Samy. Ao adicionar e interagir com o bot, você concorda com estes termos.*
+Aqui você encontrará os links diretos para nossos documentos mais importantes:
 
-* **Política de Privacidade:** [Leia nossa Política de Privacidade completa](https://[SEU_USERNAME_GITHUB].github.io/samy-bot-docs/POLITICA_DE_PRIVACIDADE.html)
-    * *Esta política explica como o bot Samy coleta, usa e protege suas informações. Sua privacidade é importante para nós.*
+* ### [Termos de Serviço (ToS)](https://[SEU_USERNAME_GITHUB].github.io/samy-bot-docs/TERMOS_DE_SERVICO.html)
+    * *Estes termos regem o uso do bot Samy. Ao adicionar e interagir com o bot em seu servidor, você e os membros do servidor concordam com estes termos.*
+
+* ### [Política de Privacidade](https://[SEU_USERNAME_GITHUB].github.io/samy-bot-docs/POLITICA_DE_PRIVACIDADE.html)
+    * *Esta política explica como o bot Samy coleta, usa, armazena e protege suas informações. Sua privacidade é fundamental para nós.*
 
 ## 🤖 Sobre o Bot Samy
 
-Samy é um bot de Discord multifuncional projetado para enriquecer a experiência do seu servidor com uma variedade de recursos, incluindo:
+Samy é um bot de Discord multifuncional, criado com carinho por `[SEU NOME/NICKNAME DE DESENVOLVEDOR]`, projetado para enriquecer a experiência do seu servidor com uma vasta gama de recursos, incluindo:
 
-* 💰 Sistema de economia avançado e jogos interativos
-* 🛡️ Ferramentas de moderação robustas e personalizáveis
-* 🛠️ Comandos de utilidade e informação para o dia a dia
-* 🎉 Entretenimento e diversão para manter a comunidade engajada
-* 🎵 Funcionalidades de música com alta qualidade de áudio
-* 🧠 Interação com inteligência artificial (IA) para respostas criativas e assistência
-* 🔗 E muito mais, com integrações planejadas!
+* 💰 **Economia Dinâmica:** Comandos para ganhar, gastar, investir moedas, sistema de loja, itens e muito mais.
+* 🛡️ **Moderação Completa:** Ferramentas para manter seu servidor seguro e organizado, com logs detalhados.
+* 🛠️ **Utilidades Diversas:** Comandos práticos para informações, avatar, cálculos e outras necessidades do dia a dia.
+* 🎉 **Entretenimento e Jogos:** Minijogos e comandos divertidos para engajar sua comunidade.
+* 🎵 **Música de Alta Qualidade:** Player de música com suporte a diversas fontes para animar seus canais de voz.
+* 🧠 **Inteligência Artificial:** Interaja com a IA Gemini para perguntas, geração de texto e outras funcionalidades criativas.
+* 🔗 **E muito mais!** Samy está sempre evoluindo com novas funcionalidades.
 
-Para saber mais sobre todos os comandos e funcionalidades do Samy, adicione-o ao seu servidor e use o comando `s!help`, ou junte-se ao nosso [Servidor de Suporte no Discord]([LINK_PARA_SEU_SERVIDOR_DE_SUPORTE_DO_DISCORD])!
+Para conhecer todos os comandos e como utilizá-los, adicione o Samy ao seu servidor e digite `s!help`, ou junte-se ao nosso [Servidor de Suporte Oficial]([LINK_PARA_SEU_SERVIDOR_DE_SUPORTE_DO_DISCORD])!
 
 ## 🤝 Contribuições (Opcional)
 
-Se você tiver sugestões de melhorias para estes documentos ou para o bot, ou se identificar algum problema, sinta-se à vontade para abrir uma **Issue** neste repositório ou no repositório principal do bot. Pull Requests com correções ou sugestões também são bem-vindos!
+Agradecemos o interesse em contribuir! Se você tem sugestões de melhorias para estes documentos, para o bot, ou se encontrou algum problema:
+* Abra uma **Issue** neste repositório para questões relacionadas à documentação.
+* Para questões sobre o bot em si, visite nosso repositório principal: `[LINK PARA O REPOSITÓRIO PRINCIPAL DO BOT SAMY, SE FOR PÚBLICO]`
 
-## 📞 Contato
+Pull Requests com correções ou sugestões bem fundamentadas são sempre bem-vindos!
 
-Para quaisquer dúvidas relacionadas a estes documentos legais ou ao bot Samy em geral, você pode entrar em contato através de:
+## 📞 Contato e Suporte
 
-* **E-mail:** `[SEU_EMAIL_DE_CONTATO]`
-* **Servidor de Suporte do Discord:** `[LINK_PARA_SEU_SERVIDOR_DE_SUPORTE_DO_DISCORD]`
-* **Usuário Discord (Desenvolvedor Principal):** `[SEU_DISCORD_TAG_COMPLETA_Ex: SeuNome#1234]`
+Para dúvidas, suporte técnico ou questões relacionadas a estes documentos legais, entre em contato:
+
+* **Servidor de Suporte no Discord:** `[LINK_PARA_SEU_SERVIDOR_DE_SUPORTE_DO_DISCORD]` (Canal `#suporte`)
+* **E-mail:** `[SEU_EMAIL_DE_CONTATO_PARA_SUPORTE_OU_QUESTÕES_LEGAIS]`
+* **Desenvolvedor Principal (Discord Tag):** `[SEU_DISCORD_TAG_COMPLETA_Ex: SeuNome#1234]`
 
 ## 📄 Licença da Documentação
 
-O conteúdo destes documentos legais é específico para o uso do bot Samy e é de propriedade de `[SEU_NOME_OU_NICKNAME_DE_DESENVOLVEDOR]`. Não é permitida a cópia ou redistribuição para outros projetos sem permissão explícita.
+O conteúdo destes documentos legais (Termos de Serviço e Política de Privacidade) é específico para o uso do bot Samy e é de propriedade de `[SEU_NOME_OU_NICKNAME_DE_DESENVOLVEDOR]`. Não é permitida a cópia integral ou redistribuição para outros projetos sem permissão explícita.
 
 ---
 
-Obrigado por escolher o Samy Bot! Esperamos que ele enriqueça sua comunidade no Discord.
+Obrigado por escolher e confiar no **Samy Bot** para sua comunidade!
