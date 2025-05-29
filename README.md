@@ -13,15 +13,15 @@ Bem-vindo(a) à documentação oficial do **Samy Bot**! Este repositório conté
 
 Aqui você encontrará os links diretos para nossos documentos mais importantes:
 
-* ### [Termos de Serviço (ToS)](https://[SEU_USERNAME_GITHUB].github.io/samy-bot-docs/TERMOS_DE_SERVICO.html)
+* ### [Termos de Serviço (ToS)](https://github.com/carlosvcl/samy-bot-docs/blob/main/TERMOS_DE_SERVICO.md)
     * *Estes termos regem o uso do bot Samy. Ao adicionar e interagir com o bot em seu servidor, você e os membros do servidor concordam com estes termos.*
 
-* ### [Política de Privacidade](https://[SEU_USERNAME_GITHUB].github.io/samy-bot-docs/POLITICA_DE_PRIVACIDADE.html)
+* ### [Política de Privacidade](https://github.com/carlosvcl/samy-bot-docs/blob/main/POLITICA_DE_PRIVACIDADE.md)
     * *Esta política explica como o bot Samy coleta, usa, armazena e protege suas informações. Sua privacidade é fundamental para nós.*
 
 ## 🤖 Sobre o Bot Samy
 
-Samy é um bot de Discord multifuncional, criado com carinho por `[SEU NOME/NICKNAME DE DESENVOLVEDOR]`, projetado para enriquecer a experiência do seu servidor com uma vasta gama de recursos, incluindo:
+Samy é um bot de Discord multifuncional, criado com carinho por `[Carlos Gomes]`, projetado para enriquecer a experiência do seu servidor com uma vasta gama de recursos, incluindo:
 
 * 💰 **Economia Dinâmica:** Comandos para ganhar, gastar, investir moedas, sistema de loja, itens e muito mais.
 * 🛡️ **Moderação Completa:** Ferramentas para manter seu servidor seguro e organizado, com logs detalhados.
@@ -31,13 +31,13 @@ Samy é um bot de Discord multifuncional, criado com carinho por `[SEU NOME/NICK
 * 🧠 **Inteligência Artificial:** Interaja com a IA Gemini para perguntas, geração de texto e outras funcionalidades criativas.
 * 🔗 **E muito mais!** Samy está sempre evoluindo com novas funcionalidades.
 
-Para conhecer todos os comandos e como utilizá-los, adicione o Samy ao seu servidor e digite `s!help`, ou junte-se ao nosso [Servidor de Suporte Oficial]([LINK_PARA_SEU_SERVIDOR_DE_SUPORTE_DO_DISCORD])!
+Para conhecer todos os comandos e como utilizá-los, adicione o Samy ao seu servidor e digite `s!help`, ou junte-se ao nosso [Servidor de Suporte Oficial]([https://discord.gg/haQPSP4EPR])!
 
 ## 🤝 Contribuições (Opcional)
 
 Agradecemos o interesse em contribuir! Se você tem sugestões de melhorias para estes documentos, para o bot, ou se encontrou algum problema:
 * Abra uma **Issue** neste repositório para questões relacionadas à documentação.
-* Para questões sobre o bot em si, visite nosso repositório principal: `[LINK PARA O REPOSITÓRIO PRINCIPAL DO BOT SAMY, SE FOR PÚBLICO]`
+* Para questões sobre o bot em si, visite nosso repositório principal: `[MANUTENÇÃO]`
 
 Pull Requests com correções ou sugestões bem fundamentadas são sempre bem-vindos!
 
