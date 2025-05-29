@@ -2,7 +2,7 @@
 
 **Última Atualização:** `29 de Maio de 2025`
 
-Esta Política de Privacidade descreve como o bot Samy, operado por `Carlos Gomes`, coleta, usa, armazena e protege as informações quando você ("o Usuário") interage com nosso Bot no Discord. A sua privacidade é importante para nós. Ao usar o Samy, você concorda com a coleta e uso de informações de acordo com esta política.
+Esta Política de Privacidade descreve como o bot Samy, operado por `Carlos Gomes`, coleta, usa, armazena e protege as informações quando você interage com nosso Bot no Discord. A sua privacidade é importante para nós. Ao usar o Samy, você concorda com a coleta e uso de informações de acordo com esta política.
 
 ## 1. Informações que Coletamos
 
@@ -59,9 +59,8 @@ Utilizamos as informações coletadas para os seguintes propósitos:
    a. **Dados de Perfil do Usuário:** Seus dados de perfil (economia, XP, inventário, etc.) são mantidos enquanto você utiliza o Bot em um servidor ou até que você solicite a exclusão dos seus dados (ver seção "Seus Direitos").
    b. **Logs de Moderação:** São mantidos enquanto o servidor existir ou conforme a política de retenção do servidor, pois são registros importantes para a administração do servidor.
    c. **Lembretes:** São excluídos do nosso banco de dados após serem enviados com sucesso ou se expirarem sem envio (se aplicável).
-   d. **Como Solicitar a Exclusão dos Seus Dados:** Você pode solicitar a exclusão dos seus dados pessoais armazenados pelo Samy (seu perfil de usuário no nosso banco de dados) entrando em contato conosco através de `[SEU MÉTODO DE CONTATO PARA SOLICITAÇÕES DE DADOS - Ex: um comando futuro como s!mydata delete, ou seu email de suporte específico para privacidade, ou uma seção no seu servidor de suporte]`. Faremos o possível para atender à sua solicitação, sujeito a quaisquer obrigações legais ou necessidades operacionais de retenção (ex: logs de moderação que são registros do servidor).
-   e. **Remoção do Bot de um Servidor:** Se o Samy for removido de um servidor, os dados de configuração específicos daquele servidor para o bot podem ser removidos. Os perfis de usuário são geralmente globais (baseados no ID do Discord do usuário), então seu perfil de economia, etc., persistirá se você usar o Samy em outros servidores. `[CLARIFIQUE SUA POLÍTICA AQUI: Se remover de todos os servidores apaga o perfil global, ou se o usuário precisa pedir.]`
-
+   d. **Como Solicitar a Exclusão dos Seus Dados:** Você pode solicitar a exclusão dos seus dados pessoais armazenados pelo Samy (seu perfil de usuário no nosso banco de dados) entrando em contato conosco através de `samybot25@gmail.com`. Faremos o possível para atender à sua solicitação, sujeito a quaisquer obrigações legais ou necessidades operacionais de retenção (ex: logs de moderação que são registros do servidor).
+   e. **Remoção do Bot de um Servidor:** Se o Samy for removido de um servidor, os dados de configuração específicos daquele servidor para o bot podem ser removidos. Os perfis de usuário são geralmente globais (baseados no ID do Discord do usuário), então seu perfil de economia, etc., persistirá se você usar o Samy em outros servidores.
 ## 5. Segurança dos Dados
 
    Levamos a segurança dos seus dados a sério e implementamos medidas técnicas e administrativas razoáveis para proteger as informações que coletamos contra acesso não autorizado, alteração, divulgação ou destruição. As chaves de API e credenciais de banco de dados são armazenadas de forma segura usando variáveis de ambiente. Utilizamos MongoDB Atlas para armazenamento de banco de dados, que oferece seus próprios recursos de segurança. No entanto, nenhum método de transmissão pela Internet ou de armazenamento eletrônico é 100% seguro.
@@ -90,4 +89,4 @@ Utilizamos as informações coletadas para os seguintes propósitos:
    * `E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: https://discord.gg/haQPSP4EPR, ou Comando no Bot: s!support privacy]`
 
 ---
-Ao usar o Bot Samy, você indica sua aceitação desta Política de Privacidade e dos nossos [Termos de Serviço]([LINK PARA SEUS TERMOS DE SERVIÇO HOSPEDADOS]).
+Ao usar o Bot Samy, você indica sua aceitação desta Política de Privacidade e dos nossos [Termos de Serviço]([https://github.com/carlosvcl/samy-bot-docs/blob/main/TERMOS_DE_SERVICO.md]).
