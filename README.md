@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="[LINK PARA ONDE O LOGO DEVE LEVAR, EX: CONVITE DO BOT OU SERVIDOR DE SUPORTE - OPCIONAL]">
-    <img src="samy-logo.jpg" alt="Logo do Bot Samy" width="150"/> 
-    </a>
-</p>
 
 # Documentação do Bot Samy
 
