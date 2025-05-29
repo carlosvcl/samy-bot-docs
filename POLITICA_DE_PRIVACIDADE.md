@@ -86,7 +86,7 @@ Utilizamos as informações coletadas para os seguintes propósitos:
 ## 9. Contato
 
    Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou nossas práticas de dados, entre em contato conosco:
-   * `E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: https://discord.gg/haQPSP4EPR, ou Comando no Bot: s!support privacy]`
+   * `E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: https://discord.gg/haQPSP4EPR, ou Comando no Bot: s!support privacy`
 
 ---
 Ao usar o Bot Samy, você indica sua aceitação desta Política de Privacidade e dos nossos [Termos de Serviço]([https://github.com/carlosvcl/samy-bot-docs/blob/main/TERMOS_DE_SERVICO.md]).
