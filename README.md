@@ -45,13 +45,13 @@ Pull Requests com correções ou sugestões bem fundamentadas são sempre bem-vi
 
 Para dúvidas, suporte técnico ou questões relacionadas a estes documentos legais, entre em contato:
 
-* **Servidor de Suporte no Discord:** `[LINK_PARA_SEU_SERVIDOR_DE_SUPORTE_DO_DISCORD]` (Canal `#suporte`)
-* **E-mail:** `[SEU_EMAIL_DE_CONTATO_PARA_SUPORTE_OU_QUESTÕES_LEGAIS]`
-* **Desenvolvedor Principal (Discord Tag):** `[SEU_DISCORD_TAG_COMPLETA_Ex: SeuNome#1234]`
+* **Servidor de Suporte no Discord:** `[https://discord.gg/haQPSP4EPR]` (Canal `#suporte`)
+* **E-mail:** `[samybot25@gmail.com]`
+* **Desenvolvedor Principal (Discord Tag):** `[CarlosGomes#2263]`
 
 ## 📄 Licença da Documentação
 
-O conteúdo destes documentos legais (Termos de Serviço e Política de Privacidade) é específico para o uso do bot Samy e é de propriedade de `[SEU_NOME_OU_NICKNAME_DE_DESENVOLVEDOR]`. Não é permitida a cópia integral ou redistribuição para outros projetos sem permissão explícita.
+O conteúdo destes documentos legais (Termos de Serviço e Política de Privacidade) é específico para o uso do bot Samy e é de propriedade de `[Carlos Gomes]`. Não é permitida a cópia integral ou redistribuição para outros projetos sem permissão explícita.
 
 ---
 
