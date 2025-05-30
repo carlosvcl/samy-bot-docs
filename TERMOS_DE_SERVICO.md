@@ -29,7 +29,7 @@ Ao usar o Samy, você concorda em:
 
 ## 6. Limitação de Responsabilidade
    O Bot Samy é fornecido "COMO ESTÁ" e "CONFORME DISPONÍVEL", sem quaisquer garantias, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comerciabilidade, adequação a um propósito específico ou não infração.
-   Na máxima extensão permitida pela lei aplicável, `[SEU NOME/NICKNAME DE DESENVOLVEDOR OU NOME DA EQUIPE]` não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, consequenciais ou exemplares (incluindo, mas não se limitando a, perda de lucros, dados ou outras perdas intangíveis) resultantes do seu uso ou da sua incapacidade de usar o Bot, mesmo que tenhamos sido avisados da possibilidade de tais danos.
+   Na máxima extensão permitida pela lei aplicável, `[CarlosGomes#2263]` não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, consequenciais ou exemplares (incluindo, mas não se limitando a, perda de lucros, dados ou outras perdas intangíveis) resultantes do seu uso ou da sua incapacidade de usar o Bot, mesmo que tenhamos sido avisados da possibilidade de tais danos.
 
 ## 7. Rescisão
    a. Podemos suspender ou encerrar permanentemente seu acesso ao Bot, ou remover o Bot de um servidor, a qualquer momento e por qualquer motivo, incluindo, mas não se limitando a, violação destes Termos, abuso do Bot, ou a pedido dos administradores do servidor.
