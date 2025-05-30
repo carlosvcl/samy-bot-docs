@@ -36,11 +36,11 @@ Ao usar o Samy, você concorda em:
    b. Você pode parar de usar o Bot a qualquer momento, simplesmente não interagindo com ele ou removendo-o do seu servidor (se você tiver permissão para tal).
 
 ## 8. Alterações nos Termos
-   Reservamo-nos o direito de modificar estes Termos a qualquer momento. Notificaremos sobre alterações significativas através de um anúncio no servidor de suporte do Bot (se houver: `[[LINK PARA SEU SERVIDOR DE SUPORTE, SE APLICÁVEL](https://discord.gg/haQPSP4EPR)]`) ou por outros meios que considerarmos apropriados. A versão mais atual dos Termos estará sempre disponível nesta página. Ao continuar a usar o Bot após as alterações entrarem em vigor, você concorda em ficar vinculado aos Termos revisados.
+   Reservamo-nos o direito de modificar estes Termos a qualquer momento. Notificaremos sobre alterações significativas através de um anúncio no servidor de suporte do Bot (se houver: `https://discord.gg/haQPSP4EPR`) ou por outros meios que considerarmos apropriados. A versão mais atual dos Termos estará sempre disponível nesta página. Ao continuar a usar o Bot após as alterações entrarem em vigor, você concorda em ficar vinculado aos Termos revisados.
 
 ## 9. Contato
    Se você tiver alguma dúvida sobre estes Termos de Serviço, ou precisar relatar uma violação, entre em contato conosco através de:
-   * `[E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: https://discord.gg/haQPSP4EPR, ou Comando no Bot: s!support]`
+   * `E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: https://discord.gg/haQPSP4EPR, ou Comando no Bot: s!support`
 
 ---
 Ao usar o Bot Samy, você reconhece que leu, entendeu e concorda em estar vinculado a estes Termos de Serviço.
