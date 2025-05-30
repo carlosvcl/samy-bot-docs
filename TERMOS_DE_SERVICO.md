@@ -40,7 +40,7 @@ Ao usar o Samy, você concorda em:
 
 ## 9. Contato
    Se você tiver alguma dúvida sobre estes Termos de Serviço, ou precisar relatar uma violação, entre em contato conosco através de:
-   * `[E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: [https://discord.gg/seuconvite](https://discord.gg/haQPSP4EPR), ou Comando no Bot: s!support]`
+   * `[E-mail: samybot25@gmail.com, ou Servidor de Suporte no Discord: https://discord.gg/haQPSP4EPR, ou Comando no Bot: s!support]`
 
 ---
 Ao usar o Bot Samy, você reconhece que leu, entendeu e concorda em estar vinculado a estes Termos de Serviço.
