@@ -2,7 +2,7 @@
 
 **Última Atualização:** `29 de Maio de 2025`
 
-Bem-vindo(a) ao Samy! Ao adicionar ou usar o bot Samy (referido como "o Bot", "Samy", "nós", "nosso") em seu servidor Discord ou interagir com seus comandos, você (referido como "o Usuário") concorda em cumprir estes Termos de Serviço ("Termos"). Se você não concorda com estes Termos, por favor, não utilize o Bot.
+Bem-vindo(a) ao Samy! Ao adicionar ou usar o bot Samy em seu servidor Discord ou interagir com seus comandos, você concorda em cumprir estes Termos de Serviço. Se você não concorda com estes Termos, por favor, não utilize o Bot.
 
 ## 1. Descrição do Serviço
 Samy é um bot multifuncional para Discord projetado para fornecer funcionalidades de economia, moderação, utilitários, informações, entretenimento, música, interação com Inteligência Artificial (IA) e outras integrações para enriquecer a experiência no seu servidor Discord. As funcionalidades podem ser adicionadas, modificadas ou removidas ao longo do tempo, a nosso critério.
