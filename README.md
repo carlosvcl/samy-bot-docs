@@ -45,7 +45,7 @@ Pull Requests com correções ou sugestões bem fundamentadas são sempre bem-vi
 
 Para dúvidas, suporte técnico ou questões relacionadas a estes documentos legais, entre em contato:
 
-* **Servidor de Suporte no Discord:** [Link](https://discord.gg/haQPSP4EPR) (Canal `#suporte-geraç`)
+* **Servidor de Suporte no Discord:** [Servidor](https://discord.gg/haQPSP4EPR) (Canal `#suporte-geral`)
 * **E-mail:** `[samybot25@gmail.com]`
 * **Desenvolvedor Principal (Discord Tag):** `[CarlosGomes#2263]`
 
