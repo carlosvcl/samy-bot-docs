@@ -37,7 +37,7 @@ Para conhecer todos os comandos e como utilizá-los, adicione o Samy ao seu serv
 
 Agradecemos o interesse em contribuir! Se você tem sugestões de melhorias para estes documentos, para o bot, ou se encontrou algum problema:
 * Abra uma **Issue** neste repositório para questões relacionadas à documentação.
-* Para questões sobre o bot em si, visite nosso repositório principal: [SITE](https://discord.com/channels/460197919027363850/606139073857454123/1379232732210528450)
+* Para questões sobre o bot em si, visite nosso repositório principal: [Site](https://carlosvcl.github.io/samy-bot-site/)
 
 Pull Requests com correções ou sugestões bem fundamentadas são sempre bem-vindos!
 
@@ -45,7 +45,7 @@ Pull Requests com correções ou sugestões bem fundamentadas são sempre bem-vi
 
 Para dúvidas, suporte técnico ou questões relacionadas a estes documentos legais, entre em contato:
 
-* **Servidor de Suporte no Discord:** `[https://discord.gg/haQPSP4EPR]` (Canal `#suporte`)
+* **Servidor de Suporte no Discord:** [Link](https://discord.gg/haQPSP4EPR) (Canal `#suporte-geraç`)
 * **E-mail:** `[samybot25@gmail.com]`
 * **Desenvolvedor Principal (Discord Tag):** `[CarlosGomes#2263]`
 
